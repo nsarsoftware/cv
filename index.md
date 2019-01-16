@@ -100,8 +100,6 @@ _Senior Flash Developer & Team Leader_
 
 ## Projects & Code Examples
 
-- `React Native, iOS, JavaScript` : [github.com/eralpkaraduman/qvik-coding-assignment-react-native](https://github.com/eralpkaraduman/qvik-coding-assignment-react-native)
-
 - `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
 
 - `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
