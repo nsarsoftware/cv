@@ -24,7 +24,7 @@ Generalist Software Developer
 
 ## Currently
 
-Based in Helsinki, Finland. Working in games industry on tech & internal tools.
+Based in Helsinki, Finland. Working on mobile apps as a consultant.
 
 
 ### Specialized in
@@ -43,7 +43,12 @@ __Kadir Has University, Computer Science & Statistics Ba.__
 
 ## Occupation
 
-`Jan 2017 - now`
+`March 2019 - now`
+__Qvik__, Helsinki  
+_Senior Software Developer_
+
+
+`Jan 2017 - February 2019`
 __Seriously Digital Entertainment__, Helsinki  
 _Technology Programmer_
 
