@@ -14,7 +14,8 @@ Generalist Software Developer
 ## TLDR;
 
 - 11+ years in software dev
-- Now working in games industry on internal tools and infrastructure.
+- Now working as consultant making web & mobile apps.
+- Worked in games industry on internal tools and infrastructure for 2 years.
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Also made Android apps and Backends on the side
 - Tried my own startup for a brief time
