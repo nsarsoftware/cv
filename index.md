@@ -38,7 +38,7 @@ Based in Helsinki, Finland. Working on mobile apps as a consultant.
 
 ## Education
 
-`2005-2013`
+`2005-2009`
 __Kadir Has University, Computer Science & Statistics Ba.__
 
 
