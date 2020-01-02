@@ -106,6 +106,8 @@ _Senior Flash Developer & Team Leader_
 
 ## Projects & Code Examples
 
+- `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/event_dot_pizza](https://github.com/eralpkaraduman/event_dot_pizza)
+
 - `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
 
 - `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
