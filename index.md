@@ -20,7 +20,7 @@ Generalist Software Developer
 - Also made Android apps and Backends on the side
 - Tried my own startup for a brief time
 - Recently became a full stack web developer for 2+ years (react, nodejs)
-- Before all i was a Flash developer when it used to be cool.
+- Before all I was a Flash developer when it used to be cool.
 - See below for code examples, open source personal projects.
 
 ## Currently
