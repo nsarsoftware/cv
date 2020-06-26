@@ -31,6 +31,7 @@ Based in Helsinki, Finland. Working on mobile apps as a consultant.
 ### Specialized in
 
 - Building digital products.
+- Cross Platform Android & iOS development with React Native and Flutter
 - Native iOS development with Swift
 - Web SPA's with javascript / React.
 - Building server applications with node.js on major cloud platforms.
