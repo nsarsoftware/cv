@@ -13,7 +13,7 @@ Generalist Software Developer
 
 ## TLDR;
 
-- 12+ years in software dev
+- 13+ years in software dev
 - Now working as consultant making web & mobile apps using React and React Native.
 - Worked in games industry on internal tools and infrastructure for 2 years.
 - Mainly developed native iOS apps for about 6 years (swift, objc)
