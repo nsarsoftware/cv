@@ -19,7 +19,7 @@ Generalist Software Developer
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Also made Android apps and Backends on the side
 - Tried my own startup for a brief time
-- Recently became a full stack web developer for 2+ years (react, nodejs)
+- Recently became a full stack web developer for 4+ years (react, psql, mongo, nodejs)
 - Before all I was a Flash developer when it used to be cool.
 - See below for code examples, open source personal projects.
 
