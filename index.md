@@ -115,8 +115,6 @@ _Senior Flash Developer & Team Leader_
 
 - `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
 
-- `TypeScript, NodeJS` : [github.com/eralpkaraduman/unity-frontend-developer-assignment](https://github.com/eralpkaraduman/unity-frontend-developer-assignment)
-
 - `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
 
 - `React Native, Objective C` : [github.com/speechgrinder/react-native-sfspeechrecognizer](https://github.com/speechgrinder/react-native-sfspeechrecognizer)
