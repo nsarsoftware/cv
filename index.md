@@ -1,20 +1,19 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Ensar GUCLU's CV
 ---
 
-# Eralp Karaduman
+# Ensar GUCLU
 Generalist Software Developer
 
-| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
-| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
-| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
-| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
+| __E-Mail__   | [nsarguclu@gmail.com](mailto:nsarguclu@gmail.com)                        |
+| __LinkedIn__ | [linkedin.com/in/nsarguclu](https://www.linkedin.com/in/nsarguclu/)      |
+| __Twitter__  | [twitter.com/nsarguclu](https://twitter.com/nsarguclu)                   |
 
 ## TLDR;
 
-- 13+ years in software dev
-- Now working as consultant making web & mobile apps using React and React Native.
+- 4+ years in software dev
+- Now working as consultant making web & mobile apps using Flutter.
 - Worked in games industry on internal tools and infrastructure for 2 years.
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Also made Android apps and Backends on the side
