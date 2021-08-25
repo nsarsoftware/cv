@@ -14,44 +14,45 @@ Generalist Software Developer
 
 - 4+ years in software dev
 - Now working as consultant making web & mobile apps using Flutter.
-- Worked in games industry on internal tools and infrastructure for 2 years.
-- Mainly developed native iOS apps for about 6 years (swift, objc)
-- Also made Android apps and Backends on the side
-- Tried my own startup for a brief time
-- Recently became a full stack web developer for 4+ years (react, psql, mongo, nodejs)
-- Before all I was a Flash developer when it used to be cool.
+- Worked in back on .Net Csharp with DevExpress tool for 3 years.
+- Mainly developed web applications and web services for about 3 years (Csharp, Jquery, Html5, Css, Js)
+- Also made Android apps and Backends on the side.
+- Doing my own startup.
+- Recently became a full stack web developer for 4+ years (csharp, mssql, devexpress tools,)
+- Mobile Apps available in Apple/Google stores.
+- Lastly i had experience about ionic and angularjs for 2+ years(i have apps with ionic).
 - See below for code examples, open source personal projects.
 
 ## Currently
 
-Based in Helsinki, Finland. Working on mobile apps as a consultant.
+Based in London, United Kingdom. Working on mobile apps as a consultant.
 
 
 ### Specialized in
 
 - Building digital products.
-- Cross Platform Android & iOS development with React Native and Flutter
-- Native iOS development with Swift
-- Web SPA's with javascript / React.
-- Building server applications with node.js on major cloud platforms.
+- Cross Platform Android & iOS development with Flutter and Ionic.
+- Web application development with CSharp.
+- Desktop apps with Csharp / MsSql.
+- Building server applications with csharp on major cloud platforms.
 
 
 ## Education
 
-`2005-2009`
-__Kadir Has University, Computer Science & Statistics Ba.__
+`2011-2016`
+__Firat University, Software Engineering__
 
 
 ## Occupation
 
-`March 2019 - now`
-__Qvik__, Helsinki  
-_Senior Software Developer_
+`May 2021 - now`
+__Qvik__, London  
+_Software Developer_
 
 
 `Jan 2017 - February 2019`
-__Seriously Digital Entertainment__, Helsinki  
-_Technology Programmer_
+__Bursa Municipality__, Turkey  
+_Mobile Application Software Engineer_
 
 - Working on web technology based internal tools (react, redux, node.js, typescript, docker).
 - Native plugin development for Unity3D (iOS/Obj-C & Android/Java).
