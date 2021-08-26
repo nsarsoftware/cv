@@ -4,7 +4,7 @@ title: Ensar GUCLU's CV
 ---
 
 # Ensar GUCLU
-Generalist Software Developer
+Software Engineer
 
 | __E-Mail__   | [nsarguclu@gmail.com](mailto:nsarguclu@gmail.com)                        |
 | __LinkedIn__ | [linkedin.com/in/nsarguclu](https://www.linkedin.com/in/nsarguclu/)      |
@@ -46,84 +46,51 @@ __Firat University, Software Engineering__
 ## Occupation
 
 `May 2021 - now`
-__Qvik__, London  
+__Nsarsoftware Ltd__, London  
 _Software Developer_
 
 
-`Jan 2017 - February 2019`
-__Bursa Municipality__, Turkey  
-_Mobile Application Software Engineer_
+`September 2017 - May 2021`
+__Bursa Municipality__, Bursa  
+_Web & Mobile Application Software Engineer_
 
-- Working on web technology based internal tools (react, redux, node.js, typescript, docker).
-- Native plugin development for Unity3D (iOS/Obj-C & Android/Java).
+- Working on web technology based internal tools (csharp, mssql, flutter, ionic, typescript, firebase).
+- Server side web service with WSDL (Csharp & MsSql).
+- Devextreme Reporting Dashboard Web Application(Csharp, Devexpress, MsSql).
+- Csharp Desktop application developer with company's own framework and devex. 
 
-
-`Sep 2015 - Jan 2017`
-__DealDash__, Helsinki  
-_iOS Developer_
-
-- Built iOS App Dropio (Swift): A retail app with real time multiplayer game mechanics.
-- Also worked on backend (PhP7 / Symfony).
-- Participated in product development. 
-
-
-`Sep 2014 - Oct 2016`
-__CupsOn.Me__, Dublin  
-_Co-Founder & iOS Developer_
-
-- Co-founded & Developed (iOS - Obj-C) a mobile first discovery &
-purchasing platform for 3rd wave coffee enthusiasts.
-
-
-`Apr 2015 - Aug 2015`
-__Hipo__, Istanbul  
-_iOS Developer_
-
-- Worked on a iOS (Obj-C) social network app for collectors named "Fielguide", 
+- Worked on a IOS and Android (Flutter) social network app for tourist named "GoBursa", 
 which included technically challenging user interfaces.
-([App Store Link](https://itunes.apple.com/us/app/fieldguide-for-everything/id879829383?mt=8))
+([App Store Link](https://apps.apple.com/us/app/gobursa/id1574323532))
+([GooglePlay Link](https://play.google.com/store/apps/details?id=com.GoBursa.BursayiKesfet))
+
+- Mobile Manager Dashboard Application with Ionic. That application was in-company. Dashboard was developed with DevExtreme, screens and functions was with flutter.
+That app was interactive with user because of responsible for mobile and easy-quick to see big datas on screen.
+- I developed police audit mobile app with Ionic, angular,typescript.
 
 
-`November 2012 - Apr 2015` 
-__Adphorus / Publik__, Istanbul  
-_Mobile (iOS & Android) Software Developer_
+`June 2016 - September 2017`
+__PandoraX Software Solutions__, London-Bursa  
+_Back-end Developer_
 
-- Worked on Adphorus, SaaS platform for facebook ads management.
-- Built native iOS (Objc-C) & Android (Java) clients for Adphorus.
-- Worked on Cevap.Tv, video how-to website. 
-- Built video playback components with google video ads integration (flash, as3, IMA SDK)
-- Built iPad / iPhone app clients (Obj-C)
-- Designed streaming video infrastracture (based on Wowza & AWS)
-- Built a video transcoding system (FFMpeg, node.js, AWS) & streaming-transcoding backend (node.js)
+- Built Web App (Csharp): A Health Care app with real time multiplayer.
+- Also worked on front-end for UI Designing. I love to be sure and make nicely for front-end.
+- Also was developed web services of our system web service of methods for mobile app.
 
 
-`Sep 2008 - Nov 2012` __MagiClick__, Istanbul  
-_Senior Flash Developer & Team Leader_
+## Projects & Code Examples 
 
-- Built websites and  advergames (Flash), 
-- Rich media campaigns combining electronics & software.
-- Early AR applications with Flash's c++ runtime.
-- Worked as team leader of  of 6 (2012)
+- `Flutter, Dart, iOS, Android`
+  - Source: Private codes in-company
+  - Web: [https://www.bursa.com.tr/](https://www.bursa.com.tr/)
+  - App Store: [https://apps.apple.com/us/app/gobursa/id1574323532](https://apps.apple.com/us/app/gobursa/id1574323532)
+ 
+- `C#, Devextreme, MsSql` :
+  - Dashboard Devexpress Report Tool
+  - Server side Wsdl Web Service (get and post request services working on wsdl address. I was requesting to a encrypting mailing project on government web service.      working with team and made just web service side)
+   - Bursa Municipality Owner's Appointment Web Application 
 
-## Projects & Code Examples
+- `Ionic, TypeScript, iOS, Cordova`
+  - Source: Private codes in-company
+  - Web: [https://www.bursa.bel.tr/haber/mobil-uygulama-ile-aninda-sorgulama-27232](https://www.bursa.bel.tr/haber/mobil-uygulama-ile-aninda-sorgulama-27232)
 
-- `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/FlutterGameKid](https://github.com/eralpkaraduman/FlutterGameKid)
-
-- `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/event_dot_pizza](https://github.com/eralpkaraduman/event_dot_pizza)
-
-- `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
-
-- `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
-
-- `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
-
-- `React Native, Objective C` : [github.com/speechgrinder/react-native-sfspeechrecognizer](https://github.com/speechgrinder/react-native-sfspeechrecognizer)
-
-- `JavaScript, iOS, Cordova`
-  - Source: [github.com/eralpkaraduman/text-wallpaper-generator](https://github.com/eralpkaraduman/text-wallpaper-generator)
-  - Web: [https://textwallpaper.online](textwallpaper.online)
-  - App Store: [itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8](https://itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8)
-
-- `Jekyll, gh-pages, Ruby, Travis CI` : [https://github.com/eralpkaraduman/cv](https://github.com/eralpkaraduman/cv)
-
-- `Unity3D, C#, Objective C` : [github.com/eralpkaraduman/LennyTTSUnity](https://github.com/eralpkaraduman/LennyTTSUnity)
