@@ -54,25 +54,36 @@ _Software Developer_
 __Bursa Municipality__, Bursa  
 _Web & Mobile Application Software Engineer_
 
+GOBURSA
+- Worked on a IOS and Android (Flutter) social network city guide app for tourist named "GoBursa", 
+which included technically challenging user interfaces.
+([App Store Link](https://apps.apple.com/us/app/gobursa/id1574323532))
+([GooglePlay Link](https://play.google.com/store/apps/details?id=com.GoBursa.BursayiKesfet))
+
+TAKING WSDL SERVICE FROM ENCRYPT MAILING COMPANY
 - Working on web technology based internal tools (csharp, mssql, flutter, ionic, typescript, firebase).
 - Server side web service with WSDL (Csharp & MsSql).
 - Devextreme Reporting Dashboard Web Application(Csharp, Devexpress, MsSql).
 - Csharp Desktop application developer with company's own framework and devex. 
 
-- Worked on a IOS and Android (Flutter) social network app for tourist named "GoBursa", 
-which included technically challenging user interfaces.
-([App Store Link](https://apps.apple.com/us/app/gobursa/id1574323532))
-([GooglePlay Link](https://play.google.com/store/apps/details?id=com.GoBursa.BursayiKesfet))
+TRAFFIC GUIDE
+- I developed a cross platform with named Bursa City Traffic mobile application with ionic.
+  - You can check speficly do you have an issue on city. Client can check easly what's going in my city, what another clients says about traffic and they can report to all. Client can stream online for all around municipality city.  
 
+DASHBOARD REPORTING
 - Mobile Manager Dashboard Application with Ionic. That application was in-company. Dashboard was developed with DevExtreme, screens and functions was with flutter.
 That app was interactive with user because of responsible for mobile and easy-quick to see big datas on screen.
 - I developed police audit mobile app with Ionic, angular,typescript.
+
+HUMAN RESOURCES APP
+- Worked on ionic and flutter for employee tracking mobile app. You can check all what employee have and goes to do.  
 
 
 `June 2016 - September 2017`
 __PandoraX Software Solutions__, London-Bursa  
 _Back-end Developer_
 
+PANDORA HEALTH CARE
 - Built Web App (Csharp): A Health Care app with real time multiplayer.
 - Also worked on front-end for UI Designing. I love to be sure and make nicely for front-end.
 - Also was developed web services of our system web service of methods for mobile app.
