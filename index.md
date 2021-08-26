@@ -5,6 +5,7 @@ title: Ensar GUCLU's CV
 
 # Ensar GUCLU
 Software Engineer
+London
 
 | __E-Mail__   | [nsarguclu@gmail.com](mailto:nsarguclu@gmail.com)                        |
 | __LinkedIn__ | [linkedin.com/in/nsarguclu](https://www.linkedin.com/in/nsarguclu/)      |
