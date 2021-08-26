@@ -8,6 +8,7 @@ Software Engineer
 
 `London`
 
+| __Phone__    | [07599 816213](tel:07599816213)                        |
 | __E-Mail__   | [nsarguclu@gmail.com](mailto:nsarguclu@gmail.com)                        |
 | __LinkedIn__ | [linkedin.com/in/nsarguclu](https://www.linkedin.com/in/nsarguclu/)      |
 | __Twitter__  | [twitter.com/nsarguclu](https://twitter.com/nsarguclu)                   |
