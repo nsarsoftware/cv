@@ -40,17 +40,11 @@ Based in London, United Kingdom. Working on mobile apps as a consultant.
 - Building server applications with csharp on major cloud platforms.
 
 
-## Education
-
-`2011-2016`
-__Firat University, Software Engineering__
-
-
 ## Occupation
 
 `May 2021 - now`
 __Nsarsoftware Ltd__, London  
-_Software Developer_
+_Software Engineer_
 
 
 `September 2017 - May 2021`
@@ -70,7 +64,7 @@ TAKING WSDL SERVICE FROM ENCRYPT MAILING COMPANY
 - Csharp Desktop application developer with company's own framework and devex. 
 
 TRAFFIC GUIDE
-- I developed a cross platform with named Bursa City Traffic mobile application with ionic.
+- I developed with cross platform by named Bursa City Traffic mobile application with ionic framework.
   - You can check speficly do you have an issue on city. Client can check easly what's going in my city, what another clients says about traffic and they can report to all. Client can stream online for all around municipality city.  
 
 DASHBOARD REPORTING
@@ -107,4 +101,19 @@ PANDORA HEALTH CARE
 - `Ionic, TypeScript, iOS, Cordova`
   - Source: Private codes in-company
   - Web: [https://www.bursa.bel.tr/haber/mobil-uygulama-ile-aninda-sorgulama-27232](https://www.bursa.bel.tr/haber/mobil-uygulama-ile-aninda-sorgulama-27232)
+
+
+## Education
+
+`2011-2016`
+__Firat University, Software Engineering__
+__Turkey__
+
+`2015-2016`
+__Petru Maior University, Erasmus+ Software Engineering__
+__Romania__
+
+`2012 & 2016`
+__Work and Travel__
+__United States of America__
 
