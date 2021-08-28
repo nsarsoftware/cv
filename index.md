@@ -135,4 +135,4 @@ __United States of America__
 
 
 ## Personal Interests
-IT, Photography, Clean UI Design, Workout, Hiking, Camping, Ski, Paintball, Wakeboard, Motocycle, Extreme sports, Fitness
+IT, Photography, Clean UI Design, Workout, Hiking, Camping, Ski, Paintball, Wakeboard, Motocycle, Extreme sports, Fitness.
