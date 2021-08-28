@@ -28,7 +28,7 @@ Software Engineer
 
 ## Currently
 
-Based in London, United Kingdom. Working on mobile apps as a consultant.
+Based in London, United Kingdom. Working on mobile and web apps as a consultant.
 
 
 ### Specialized in
